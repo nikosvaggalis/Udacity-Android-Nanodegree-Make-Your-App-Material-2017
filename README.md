@@ -36,4 +36,4 @@ You will improve an app for this project.The app is currently functional, and wo
 
 ## Screens
 
-![screen](../master/art/gifanimation1.gif)
+![screen](../master/XYZReader/art/gifanimation1.gif)
